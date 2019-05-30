@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/*This is where I'd prefer to implement the inline styles but I used Radium instead :)
+.List li:hover {
+  background: grey;
+  color: white;
+}*/
